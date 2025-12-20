@@ -1,0 +1,19 @@
+# 📦 n8n Workflows Backup
+
+Repositório centralizado para versionamento e backup de fluxos do n8n.
+
+---
+
+### 📂 Estrutura de Fluxos
+Este repositório armazena automações divididas por categorias:
+
+* **SDR**: Fluxos focados em prospecção ativa e funil de vendas.
+* **RAG**: Implementações de Inteligência Artificial e Recuperação de Dados (Retrieval-Augmented Generation).
+* **Automações**: Processos internos e fluxos operacionais gerais.
+
+---
+
+### ⚙️ Informações de Backup
+* **Frequência:** Diária / Automática
+* **Formato:** JSON (Exportação nativa do n8n)
+* **Origem:** Instância de produção n8n
